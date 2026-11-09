@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.pptx
+*.failed.applescript
+*.failed.ps1
+test-output/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Combine Church Sunday PPT"
+  short_description: "Assemble weekly Sunday worship PowerPoint decks"
+  default_prompt: "Use $combine-church-sunday-ppt to assemble this week’s Sunday service PowerPoint in one pass, preserve worship and sermon slides natively, report the build timing, and validate against any accepted reference deck."
